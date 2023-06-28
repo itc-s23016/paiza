@@ -14,7 +14,7 @@
 - [たれ目](./tareme.py)
 - [つり目](./turime.py)
 - [めがね](./megane.py)
-##衣装
+## 衣装
 - [Cute衣装](./cute.py)
 - [Sexy衣装](./sexy.py)
 ## スペシャル
