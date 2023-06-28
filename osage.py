@@ -1,3 +1,7 @@
+def f(n, m, ts):
+    return "OK" if c == m else c
+
+
 [n, m] = [int(input()) for _ in range(2)]
 ts = [int(input()) for _ in range(m)]
 t = n * 60
@@ -8,7 +12,5 @@ for i in ts:
         c += 1
     else:
         break
-if c == m:
-    print("OK")
-else:
-    print(c)
+result = f(n, m, ts)
+print(result)
