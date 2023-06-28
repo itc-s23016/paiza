@@ -1,5 +1,7 @@
+def f(N, M):
+    return N - M if N - M >= 1 else 0
+
+
 N, M = [int(_) for _ in input().split()]
-if N - M >= 1:
-    print(N - M)
-else:
-    print(0)
+result = f(N, M)
+print(result)
