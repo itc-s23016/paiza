@@ -1,7 +1,7 @@
 ## スクリーンショット
 # paiza
-![CodeGirl Collection](./Codegirl.png)
-![Koisuru Hakkason](./koisuru.png)
+![CodeGirl Collection](./images/Codegirl.png)
+![Koisuru Hakkason](./images/koisuru.png)
  
 ## 恋するハッカソン
 ## 髪型
