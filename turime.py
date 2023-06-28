@@ -1,6 +1,8 @@
+def f(p):
+    return a + 10 if a >= 10 else a
+
+
 p = int(input())
 a = p // 100
-if a >= 10:
-    print(a + 10)
-else:
-    print(a)
+result = f(p)
+print(result)
